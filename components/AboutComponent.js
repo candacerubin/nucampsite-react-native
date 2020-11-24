@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
-import { ScrollView } from 'react-native-gesture-handler';
+// import { ScrollView } from 'react-native-gesture-handler';
 import { Card, ListItem } from 'react-native-elements';
-import { FlatList, Text } from 'react-native';
+import { FlatList, Text, ScrollView } from 'react-native';
 import { PARTNERS } from '../shared/partners';
-// import { SafeAreaView } from 'react-native-safe-area-context';
 
 function Mission() {
 	return (

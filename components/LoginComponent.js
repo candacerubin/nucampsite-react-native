@@ -266,16 +266,16 @@ const Login = createBottomTabNavigator(
 const styles = StyleSheet.create({
 	container: {
 		justifyContent: 'center',
-		margin: 20,
+		margin: 8,
 	},
 	formIcon: {
 		marginRight: 10,
 	},
 	formInput: {
-		padding: 10,
+		padding: 0,
 	},
 	formCheckbox: {
-		margin: 10,
+		margin: 0,
 		backgroundColor: null,
 	},
 	formButton: {
